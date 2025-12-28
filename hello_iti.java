@@ -1,5 +1,12 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, ITI!");
+
+        printString("Hello, ITI!");
+
+        
+    }
+
+       public static void printString(String str) {
+        System.out.println(str);
     }
 }
