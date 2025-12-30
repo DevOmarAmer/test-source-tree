@@ -1,6 +1,6 @@
 public class HelloITIjava {
     public static void main(String[] args) {
-        printITI("Hello, ITI!");
+        printITI("Hello, Omar!");
     }
 
     public static void printITI(String str) {
